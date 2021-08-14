@@ -4,7 +4,7 @@
 Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreaSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="AndreaSoftware" /> </p>
-<p align="left"> <a href="https://twitter.com/Mairesama" target="blank"><img src="https://img.shields.io/twitter/follow/Mairesamax?logo=twitter&style=for-the-badge" alt="Mairesamax" /></a></p>
+<p align="left"> <a href="https://twitter.com/Mairesama" target="blank"><img src="https://img.shields.io/twitter/follow/Mairesamax?logo=twitter&style=for-the-badge" alt="Mairesama" /></a></p>
 
 * [Chart.js](https://www.chartjs.org/)
 * [Cordova.apache](https://cordova.apache.org/) 
