@@ -7,6 +7,8 @@ Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreaSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="AndreaSoftware" /> </p>
 <p align="left"> <a href="https://twitter.com/Mairesama" target="blank"><img src="https://img.shields.io/twitter/follow/Mairesama?logo=twitter&style=for-the-badge" alt="Mairesama" /></a></p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/AndreaSoftware?tab=repositories&q=&type=public&language=](https://github.com/AndreaSoftware?tab=repositories&q=&type=public&language=)
+
 * [Chart.js](https://www.chartjs.org/)
 * [Cordova.apache](https://cordova.apache.org/) 
 
