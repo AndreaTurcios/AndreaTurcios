@@ -3,7 +3,7 @@
 
 Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
 - 📫 How to reach me **turciosbarquero@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/AndreaTurcios?tab=repositories&q=&type=public&language=](https://github.com/AndreaSoftware?tab=repositories&q=&type=public&language=)
+- 👨‍💻 All of my projects are available at [https://github.com/AndreaTurcios?tab=repositories&q=&type=public&language=](https://github.com/AndreaTurcios?tab=repositories&q=&type=public&language=)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreaTurcios&label=Profile%20views&color=0e75b6&style=flat" alt="AndreaTurcios" /> </p>
 <p align="left"> <a href="https://twitter.com/Mairesama" target="blank"><img src="https://img.shields.io/twitter/follow/Mairesama?logo=twitter&style=for-the-badge" alt="Mairesama" /></a></p>
