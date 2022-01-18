@@ -2,6 +2,7 @@
 <h3 align="center"> Working as junior programmer and doing game dev in my free time 💻</h3>
 
 Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
+<br>
 I study engineering in computer science at the Don Bosco University 👨‍💻
 
 - 📫 How to reach me **turciosbarquero@gmail.com**
