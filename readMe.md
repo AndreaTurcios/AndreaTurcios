@@ -3,7 +3,7 @@
 
 Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
 <br>
-I study engineering in computer science at the Don Bosco University 👨‍💻
+I study engineering in computer science at the Don Bosco University. 👨‍💻
 
 - 📫 How to reach me **turciosbarquero@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaTurcios?tab=repositories&q=&type=public&language=](https://github.com/AndreaTurcios?tab=repositories&q=&type=public&language=)
@@ -20,8 +20,8 @@ I study engineering in computer science at the Don Bosco University 👨‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mairesama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mairesama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea-turcios-bb8932219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea-turcios" height="30" width="40" /></a>
-<a href="https://instagram.com/andreaaturcios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andreaaturcios" height="30" width="40" /></a>
+<a href="https://twitter.com/Mairesama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mairesama" height="30" width="40" />Mairesama</a>
+<a href="https://linkedin.com/in/andrea-turcios-bb8932219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea-turcios" height="30" width="40" />Andrea Turcios</a>
+<a href="https://instagram.com/andreaaturcios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andreaaturcios" height="30" width="40" />andreaaturcios</a>
 </p>
 
