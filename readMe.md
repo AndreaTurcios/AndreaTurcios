@@ -17,7 +17,7 @@ Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mairesama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mairesama" height="30" width="40" /></a>
+<a href="https://twitter.com/Mairesama" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Mairesama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrea-turcios-bb8932219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea-turcios" height="30" width="40" /></a>
 <a href="https://instagram.com/andreaaturcios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andreaaturcios" height="30" width="40" /></a>
 </p>
