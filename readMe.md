@@ -2,7 +2,7 @@
   <h3 align="center">  
    <img src="https://andreaaturcios.com/img/logofnegro.png" width="180" height="70" alt="andreaaturcios.com"> 
   </h3>
- <h3 align="center">  Working as junior programmer and doing game dev in my free time 💻</h3>
+ <h3 align="center">  𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗷𝘂𝗻𝗶𝗼𝗿 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱 𝗱𝗼𝗶𝗻𝗴 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃 𝗶𝗻 𝗺𝘆 𝗳𝗿𝗲𝗲 𝘁𝗶𝗺𝗲 💻</h3>
 
 
 
