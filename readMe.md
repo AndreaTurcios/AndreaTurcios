@@ -21,7 +21,7 @@ I study engineering in computer science at the Don Bosco University. 👨‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mairesama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mairesama" height="30" width="40" />Mairesama</a>
+<a href="https://twitter.com/andreaaturcios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mairesama" height="30" width="40" />Mairesama</a>
 <a href="https://linkedin.com/in/andrea-turcios-bb8932219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrea-turcios" height="30" width="40" />Andrea Turcios</a>
 <a href="https://instagram.com/andreaaturcios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="andreaaturcios" height="30" width="40" />andreaaturcios</a>
 </p>
