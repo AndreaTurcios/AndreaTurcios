@@ -1,7 +1,7 @@
 <h1 align="center">  Hi, 👋 I'm Andrea Turcios </h1>
 <a href="https://andreaaturcios.com">
   <h3 align="center">  
-   <img src="https://andreaaturcios.com/img/logofnegro.png" width="180" height="70" /> 
+   <img src="https://andreaaturcios.com/img/logofnegro.png" width="180" height="70" alt="andreaaturcios.com" /> 
  </h3>
 </a>
  <h3 align="center">  Working as junior programmer and doing game dev in my free time 💻</h3>
