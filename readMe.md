@@ -1,7 +1,9 @@
 <h1 align="center">  Hi, 👋 I'm Andrea Turcios </h1>
-<h3 align="center"> Working as junior programmer and doing game dev in my free time 💻</h3>
+<h3 align="center"> 
+  <img src="https://andreaaturcios.com/img/LogoSinFondo.png" width="180" height="60" />
+  Working as junior programmer and doing game dev in my free time 💻</h3>
 
-<img src="https://andreaaturcios.com/img/LogoSinFondo.png" width="180" height="60" />
+
 
 Preparing to be a systems engineer, at the moment I am studying Java, C #, .NET, Python, PHP and creating web pages with HTML, CSS and JavaScript.
 <br>
