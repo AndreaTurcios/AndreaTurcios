@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andrea Turcios
 <p align="center">
-  <img src="https://andreaaturcios.com/img/logofnegro.png" width="150" height="150" alt="andreaaturcios.com" style="border-radius: 50%;">
+  <img src="https://andreaaturcios.com/img/aT_solo.png" width="150" height="150" alt="andreaaturcios.com" style="border-radius: 50%;">
 </p>
 
 ## 💻 About Me
@@ -33,16 +33,11 @@ I have knowledge in **digital forensics** and **cybersecurity principles**.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaTurcios&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🌎 Language Toggle
-🌎 Language Toggle
-Click the button below to toggle between English and Spanish:
-
-```html
 <button onclick="toggleLanguage()">🌐 Change Language</button>
 <script>
   function toggleLanguage() {
     alert('Language toggle coming soon!');
   }
 </script>
-```
 
 <!-- Proudly created with ❤️ by Andrea Turcios -->
