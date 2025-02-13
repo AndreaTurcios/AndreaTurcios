@@ -1,12 +1,14 @@
 # Hi there! 👋 I'm Andrea Turcios
 <p align="center">
-  <img src="https://andreaaturcios.com/img/aT_solo.png" width="180" height="70" alt="andreaaturcios.com">
+  <img src="https://andreaaturcios.com/img/logofnegro.png" width="150" height="150" alt="andreaaturcios.com" style="border-radius: 50%;">
 </p>
 
 ## 💻 About Me
-I'm a **junior programmer** working with modern technologies, and I spend my free time exploring **game development**. Currently pursuing a degree in **Computer Science Engineering** at Don Bosco University.
+I'm a **junior programmer** working with modern technologies and exploring **game development** in my free time. Currently pursuing a degree in **Computer Science Engineering** at Don Bosco University.
 
-I'm passionate about learning and improving my skills in **.NET**, **C#**, and **Web Development**. I enjoy turning ideas into reality through code and contributing to open-source projects.
+I'm passionate about learning and improving my skills in **.NET**, **C#**, and **Web Development**. Although I don’t have .NET projects in my public repository, I've consistently developed with **.NET** in all my work experiences.
+
+I’m currently working at **Telecorporación Salvadoreña** and **Acoacac**. During weekends, I'm fully focused on enhancing my skills and exploring new technologies.
 
 - 🔭 I’m currently working on enhancing my skills in **.NET** and **game development**.
 - 🌱 I’m constantly learning **cloud computing** and exploring new **front-end frameworks**.
@@ -24,7 +26,16 @@ I'm passionate about learning and improving my skills in **.NET**, **C#**, and *
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndreaTurcios&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaTurcios&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AndreaTurcios&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 🌎 Language Toggle
+Click the button below to toggle between English and Spanish:
+
+```html
+<button onclick="toggleLanguage()">🌐 Change Language</button>
+<script>
+  function toggleLanguage() {
+    alert('Language toggle coming soon!');
+  }
+</script>
+```
 
 <!-- Proudly created with ❤️ by Andrea Turcios -->
