@@ -23,6 +23,9 @@ I enjoy continuous learning and am focused on growing as a fullstack developer. 
   <img src="https://andreaaturcios.com/img/tech_stack.png" alt="Tech Stack">
 </p>
 
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## 🔐 Cybersecurity & Forensics
 I have knowledge in **digital forensics** and **cybersecurity principles**.
 
@@ -40,4 +43,12 @@ I have knowledge in **digital forensics** and **cybersecurity principles**.
 - **Digital Forensics Fundamentals**
 - **UDB Engineering Camp**
 
-<button style="background-color: #ff66b2; color: white; padding: 10px 20px; border: none; border-radius: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" onclick="window.location.href='https://andreaaturcios.com/redes.html';">✨ Visit My Networks ✨</button>
+<p align="center">
+  <a href="https://andreaaturcios.com/redes.html">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20My%20Networks%20%E2%9C%A8-pink?style=for-the-badge" alt="Visit My Networks">
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreaTurcios&label=Profile%20views&color=0e75b6&style=flat" alt="AndreaTurcios" /> </p>
+
+<!-- Proudly created with ❤️ by Andrea Turcios -->
