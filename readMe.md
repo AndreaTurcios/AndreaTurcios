@@ -31,8 +31,8 @@ Actualmente trabajo en **Telecorporación Salvadoreña** y **Acoacac de R.L.**. 
 Disfruto del aprendizaje continuo y estoy enfocada en crecer como desarrolladora fullstack. He trabajado en el diseño y desarrollo de sistemas para empresas como **Leasing All**, **Acoacac**, **Electra**, **Regal International**, **Acosiemens**, y **Hugo App**. También he brindado soporte en línea y colaborado en proyectos de diseño web. Además, diseñé una plataforma de libros interactivos para **Editorial MonteSinaí** para facilitar el aprendizaje del inglés desde primer grado hasta segundo año de bachillerato.
 
 - 🔭 Actualmente trabajo en mejorar mis habilidades en **.NET** y **desarrollo de videojuegos**.
-- 🌱 Siempre estoy explorando nuevos **frameworks frontend**.
-- 📫 Contáctame en **programmer@andreaaturcios.com**
+- 🌱 Siempre estoy explorando nuevos **frameworks**.
+- 📫 Contáctame al correo **programmer@andreaaturcios.com**
 - 🌐 Mi sitio web: [andreaaturcios.com](https://andreaaturcios.com/)
 
 ## 🌐 Connect with Me 🌟
