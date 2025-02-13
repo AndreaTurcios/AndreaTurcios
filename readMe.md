@@ -42,5 +42,3 @@ I have knowledge in **digital forensics** and **cybersecurity principles**.
 - **UDB Engineering Camp**
 
 <button style="background-color: #ff66b2; color: white; padding: 10px 20px; border: none; border-radius: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" onclick="window.location.href='https://andreaaturcios.com/redes.html';">✨ Visit My Networks ✨</button>
-
-<!-- Proudly created with ❤️ by Andrea Turcios -->
