@@ -42,8 +42,13 @@ Disfruto del aprendizaje continuo y estoy enfocada en crecer como desarrolladora
 ![.NET](https://img.shields.io/badge/.NET-ff66b2.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-ff66b2.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23ffccff.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23ff99cc.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-%23ff66b2?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+![MySQL](https://img.shields.io/badge/mysql-ff66b2.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-ff99cc?style=for-the-badge&logo=mariadb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-ff66b2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-ffccff?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-ff66b2?style=for-the-badge&logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff99cc?style=for-the-badge&logo=postgresql&logoColor=white)  
+
 ## 🔐 Cybersecurity & Forensics
 I have knowledge in **digital forensics** and **cybersecurity principles**.
  
