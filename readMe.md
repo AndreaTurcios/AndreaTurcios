@@ -43,11 +43,11 @@ Disfruto del aprendizaje continuo y estoy enfocada en crecer como desarrolladora
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-ff66b2.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-ff99cc?style=for-the-badge&logo=mariadb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-ff66b2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-ffccff?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-ff66b2?style=for-the-badge&logo=oracle&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff99cc?style=for-the-badge&logo=postgresql&logoColor=white)  
+[MariaDB](https://img.shields.io/badge/MariaDB-ff99cc?style=for-the-badge&logo=mariadb&logoColor=white)  
+[SQL Server](https://img.shields.io/badge/SQL%20Server-ff66b2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+[MongoDB](https://img.shields.io/badge/MongoDB-ffccff?style=for-the-badge&logo=mongodb&logoColor=white)  
+[Oracle](https://img.shields.io/badge/Oracle-ff66b2?style=for-the-badge&logo=oracle&logoColor=white)  
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff99cc?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## 🔐 Cybersecurity & Forensics
 I have knowledge in **digital forensics** and **cybersecurity principles**.
