@@ -32,12 +32,4 @@ I have knowledge in **digital forensics** and **cybersecurity principles**.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndreaTurcios&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaTurcios&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌎 Language Toggle
-<button onclick="toggleLanguage()">🌐 Change Language</button>
-<script>
-  function toggleLanguage() {
-    alert('Language toggle coming soon!');
-  }
-</script>
 
-<!-- Proudly created with ❤️ by Andrea Turcios -->
