@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Andrea Turcios
 <p align="center">
-  <img src="https://andreaaturcios.com/img/logofnegro.png" width="180" height="70" alt="andreaaturcios.com">
+  <img src="https://andreaaturcios.com/img/aT_solo.png" width="180" height="70" alt="andreaaturcios.com">
 </p>
 
 ## 💻 About Me
