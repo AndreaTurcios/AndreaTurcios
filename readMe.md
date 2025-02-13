@@ -1,6 +1,11 @@
 # Hi there! 👋 I'm Andrea Turcios
 <p align="center">
   <img src="https://andreaaturcios.com/img/aT_solo.png" width="150" height="150" alt="andreaaturcios.com" style="border-radius: 50%;">
+  <p align="center">
+    <a href="https://andreaaturcios.com/redes.html">
+      <img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20My%20Networks%20%E2%9C%A8-pink?style=for-the-badge" alt="Visit My Networks">
+    </a>
+  </p>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreaTurcios&label=Profile%20views&color=0e75b6&style=flat" alt="AndreaTurcios" /> </p>
@@ -43,10 +48,5 @@ I have knowledge in **digital forensics** and **cybersecurity principles**.
 - **Digital Forensics Fundamentals**
 - **UDB Engineering Camp**
 
-<p align="center">
-  <a href="https://andreaaturcios.com/redes.html">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20My%20Networks%20%E2%9C%A8-pink?style=for-the-badge" alt="Visit My Networks">
-  </a>
-</p>
 
-<!-- Proudly created with ❤️ by Andrea Turcios -->
+
